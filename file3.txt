@@ -1,0 +1,1 @@
+GitHub cannot be used without Git.
